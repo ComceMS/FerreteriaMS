@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Hola, IA 👋")
-nombre = st.text_input("¿Cómo te llamas?")
-if nombre:
-    st.write(f"¡Hola, {nombre}! Esta es mi primera app en internet.")
+st.title("🚧 Aplicación bajo construcción 🚧")
+st.subheader("Estamos trabajando en nuevas funciones.")
+
+st.info("Esta aplicación se encuentra actualmente bajo desarrollo. ¡Vuelve pronto para ver las novedades!")
