@@ -1,4 +1,5 @@
-# Tu código
+import streamlit as st
+
 st.title("🚧 Aplicación bajo construcción 🚧")
 st.subheader("Estamos trabajando en nuevas funciones.")
 
